@@ -1,16 +1,16 @@
-#Hex → RGB API
+# Hex → RGB API
 
 Simple REST API with Express that converts hex colors to RGB.
 Includes unit tests (Mocha + Chai) and integration tests (Supertest).
 
-#Run
+# Run
 npm install
 npm start
 
-#Test
+# Test
 npm test
 
-#API
+# API
 
 GET /hex-to-rgb?hex=#ff0000 → { "r": 255, "g": 0, "b": 0 }
 
