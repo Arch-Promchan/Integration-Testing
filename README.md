@@ -5,6 +5,7 @@ Includes unit tests (Mocha + Chai) and integration tests (Supertest).
 
 # Run
 npm install
+
 npm start
 
 # Test
